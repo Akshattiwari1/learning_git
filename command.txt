@@ -1,0 +1,24 @@
+ 2 git status                                                                                                                                  
+   3 git init                                                                                                                                    
+   4 git status                                                                                                                                  
+   5 git add demo.js                                                                                                                             
+   6 git status                                                                                                                                  
+   7 git commit -m "my first commit"                                                                                                             
+   8 history                                                                                                                                     
+   9 git log                                                                                                                                     
+  10 git remote add origin https://github.com/Akshattiwari1/learning_git.git                                                                     
+  11 git push  origin master                                                                                                                     
+  12 git status                                                                                                                                  
+  13 git pull  origin master                                                                                                                     
+  14 git clone https://github.com/Akshattiwari1/learning_git.git                                                                                 
+  15 git restore demo.js                                                                                                                         
+  16 git fetch                                                                                                                                   
+  17 git restore demo.js                                                                                                                         
+  18 git status                                                                                                                                  
+  19 git branch tnplab                                                                                                                           
+  20 git branch                                                                                                                                  
+  21 git switch tnplab                                                                                                                           
+  22 git branch                                                                                                                                  
+  23 git push  origin tnplab                                                                                                                     
+  24 git branch                                                                                                                                  
+  25 git status
